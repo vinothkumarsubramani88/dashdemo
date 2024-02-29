@@ -1,7 +1,4 @@
-#NEw branch
-
-#test git
-#test VS commit
+#from VScode
 import pandas as pd
 import dash
 import dash_table
